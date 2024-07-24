@@ -1,4 +1,4 @@
-<h1 align="center">Hi Im ✨ L7N</h1>
+<h1 align="center">Hi Im L7N</h1>
 <h3 align="center">Python programmer, professional in Telegram bots and website programming</h3>
 
 - 🔭 My Library On Python [Topython](https://github.com/is-L7N/Topython)
