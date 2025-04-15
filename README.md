@@ -3,7 +3,7 @@
 
 - 🔭 My Library On Python [Topython](https://github.com/is-L7N/Topython)
 
-- 👨‍💻 All of my projects are available at [https://t.me/ToPython](https://t.me/ToPython)
+- 👨‍💻 All of my projects are available at [https://t.me/PyL7N](https://t.me/PyL7N)
 
 - 📫 How to reach me **l7ng4q@gmail.com**
 
